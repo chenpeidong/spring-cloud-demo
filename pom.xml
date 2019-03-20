@@ -13,6 +13,7 @@
     <modules>
         <module>server-eureka</module>
         <module>client-eureka</module>
+        <module>service-feign</module>
     </modules>
     <groupId>site.syso</groupId>
     <artifactId>spring-cloud-demo</artifactId>
