@@ -15,6 +15,7 @@
         <module>client-eureka</module>
         <module>service-feign</module>
         <module>service-feign-hystrix</module>
+        <module>service-zuul</module>
     </modules>
     <groupId>site.syso</groupId>
     <artifactId>spring-cloud-demo</artifactId>
